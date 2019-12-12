@@ -6,3 +6,5 @@ app.use((req, res) => {
     message: 'Hello World'
   });
 });
+
+module.exports = app;

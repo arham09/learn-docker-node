@@ -1,3 +1,5 @@
+# file ignore commit to git
+
 node_modules
 npm-debug*
 
