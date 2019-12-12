@@ -10,5 +10,8 @@
   "license": "Beerware",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.0"
   }
 }
